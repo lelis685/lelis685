@@ -17,8 +17,8 @@
   <img  align="center" height="70 width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img  align="center" height="70 width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img  align="center" height="70 width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-      
+  <img  align="center" height="70 width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img  align="center" height="70 width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
   
 ### Contact me
