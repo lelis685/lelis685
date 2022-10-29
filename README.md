@@ -7,7 +7,6 @@
   <br />
   <a href="https://github.com/lelis685">
   <img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=lelis685&show_icons=true&hide=issues,contribs&theme=dark&include_all_commits=true&count_private=true" />    
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelis685&layout=compact&theme=tokyonight"/>
 </div>
 
 ### Tools and technologies
