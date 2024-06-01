@@ -8,8 +8,8 @@ I am a Backend Developer from Brazil.
   
   
 
-  🔭 I’m working as a Software Engineer and contributing to backend banking applications.
-  ⚡ In my free time I watch TV Shows, read and do courses in tech.  
+  🔭 I work as a software engineer, contributing to backend banking applications.  
+  ⚡ In my free time, I enjoy watching TV shows, reading, and taking tech courses.  
 
   
 <div>
